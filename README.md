@@ -1,2 +1,3 @@
 # projeto-spotify
-Cópa para estudos do site do Spotify
+
+Este projeto faz parte do curso de Desenvolvimento Web(https://www.udemy.com/course/web-completo/)
