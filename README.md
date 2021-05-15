@@ -1,2 +1,2 @@
 # projeto-spotify
-Cópa ára estudos do site do Spotify
+Cópa para estudos do site do Spotify
